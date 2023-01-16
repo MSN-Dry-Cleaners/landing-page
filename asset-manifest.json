@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "./static/css/main.86e04bf1.css",
-    "main.js": "./static/js/main.b22acd75.js",
+    "main.js": "./static/js/main.9901a70e.js",
     "static/js/787.6606bfd5.chunk.js": "./static/js/787.6606bfd5.chunk.js",
     "static/media/primeicons.svg": "./static/media/primeicons.e1441b135b3ca9ad643c.svg",
     "static/media/hero-image.jpg": "./static/media/hero-image.b0de252c27e74efa1478.jpg",
-    "static/media/service-2.jpg": "./static/media/service-2.89872f077e5199661eec.jpg",
-    "static/media/service-1.jpg": "./static/media/service-1.02c1f76d5e3dfa8e94de.jpg",
+    "static/media/service-1.jpg": "./static/media/service-1.89872f077e5199661eec.jpg",
+    "static/media/service-2.jpg": "./static/media/service-2.02c1f76d5e3dfa8e94de.jpg",
     "static/media/service-3.jpg": "./static/media/service-3.044edf68ae6e023a0520.jpg",
     "static/media/highlights-1.jpg": "./static/media/highlights-1.595385af4c84861b5242.jpg",
     "static/media/logo-large.jpg": "./static/media/logo-large.d719aa5c3cb7d3af1330.jpg",
@@ -18,11 +18,11 @@
     "static/media/primeicons.woff2": "./static/media/primeicons.78172950b335ccdb94e2.woff2",
     "index.html": "./index.html",
     "main.86e04bf1.css.map": "./static/css/main.86e04bf1.css.map",
-    "main.b22acd75.js.map": "./static/js/main.b22acd75.js.map",
+    "main.9901a70e.js.map": "./static/js/main.9901a70e.js.map",
     "787.6606bfd5.chunk.js.map": "./static/js/787.6606bfd5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86e04bf1.css",
-    "static/js/main.b22acd75.js"
+    "static/js/main.9901a70e.js"
   ]
 }
